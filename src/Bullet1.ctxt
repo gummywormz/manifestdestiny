@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bullet1()
+comment0.text=\r\n\ Constructs\ a\ basic\ bullet\r\n
+comment1.params=pDir
+comment1.target=Bullet1(int)
+comment1.text=\r\n\ Constructs\ a\ bullet\ with\ the\ given\ direction\r\n\ @param\ pDir\ The\ direction\ to\ set\r\n
+comment2.params=pDir\ useSine
+comment2.target=Bullet1(int,\ int)
+comment2.text=\r\n\ Constructs\ a\ bullet\ with\ the\ given\ direction\ and\ wave\ properties\r\n\ @param\ pDir\ The\ direction\ to\ set\r\n\ @param\ useSine\ Sets\ whether\ wave\ is\ to\ be\ used\r\n
+comment3.params=pDir\ useSine\ pExplode
+comment3.target=Bullet1(int,\ int,\ int)
+comment3.text=\r\n\ Constructs\ a\ bullet\ with\ the\ given\ direction\ wave\ properties,\ and\ split\ properties\r\n\ @param\ pDir\ The\ direction\ to\ set\r\n\ @param\ useSine\ Sets\ whether\ wave\ is\ to\ be\ used\r\n\ @param\ pExplode\ Sets\ whether\ split\ is\ to\ be\ used\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Bullet1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

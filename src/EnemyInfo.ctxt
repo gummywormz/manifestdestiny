@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=a\ x\ y\ cooldown
+comment0.target=EnemyInfo(greenfoot.Actor,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructs\ an\ EnemyInfo\ object\r\n\ @param\ a\ The\ object\ to\ spawn\r\n\ @param\ x\ The\ x\ location\ to\ spawn\ it\ at\r\n\ @param\ y\ The\ y\ location\ to\ spawn\ it\ at\r\n\ @param\ cooldown\ How\ many\ act\ cycles\ in\ to\ spawn\ it\ at\ (aprox.\ 60\ Cycles\ Per\ Second)\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ Returns\ the\ x\ location\ of\ the\ enemy\r\n\ @return\ The\ x\ location\ of\ the\ enemy\r\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\r\n\ Returns\ the\ y\ location\ of\ the\ enemy\r\n\ @return\ The\ y\ location\ of\ the\ enemy\r\n
+comment3.params=
+comment3.target=greenfoot.Actor\ getActor()
+comment3.text=\r\n\ Returns\ the\ Enemy\ Actor\ to\ spawn\r\n\ @return\ The\ Enemy\ Actor\ to\ spawn\r\n
+comment4.params=
+comment4.target=int\ getSpawnDelay()
+comment4.text=\r\n\ Returns\ the\ spawn\ delay\ of\ the\ enemy\r\n\ @return\ The\ spawn\ delay\ of\ the\ enemy.\r\n
+numComments=5

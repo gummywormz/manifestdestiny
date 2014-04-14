@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Wagon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=speed
+comment1.target=void\ setSpeed(int)
+comment1.text=\r\n\ Sets\ the\ speed\ of\ the\ wagon\r\n\ @param\ speed\ The\ speed\ to\ set\r\n
+comment2.params=wep
+comment2.target=void\ setWeapon(int)
+comment2.text=\r\n\ Sets\ the\ wagon's\ weapon.\ \r\n\ 0\ is\ normal,\r\n\ 1\ is\ wave\r\n\ 2\ is\ spread\r\n\ 3\ is\ burst\r\n\ 4\ is\ plasma\ /\ split\r\n\ @param\ wep\ The\ weapon\ to\ set\r\n
+comment3.params=
+comment3.target=int\ getHealth()
+comment3.text=\r\n\ Gets\ the\ wagon's\ health\r\n\ @return\ The\ health\ of\ the\ wagon\r\n
+comment4.params=pHealth
+comment4.target=void\ setHealth(int)
+comment4.text=\r\n\ Sets\ the\ wagon's\ health\r\n\ @param\ pHealth\ The\ health\ to\ set\r\n
+comment5.params=frames
+comment5.target=void\ setIframes(int)
+comment5.text=\r\n\ Sets\ the\ wagon's\ invincibility\ frames\r\n\ @param\ frames\ The\ frames\ to\ set\ in\ Act\ Cycles\r\n
+numComments=6

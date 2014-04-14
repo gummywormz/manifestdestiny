@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=EnemyInfo[]\ getLevel(int)
+comment0.text=\r\n\ Returns\ the\ EnemyInfo\ array\ associated\ with\ the\ given\ level.\r\n\ @param\ l\ The\ level\ to\ get\r\n\ @return\ The\ EnemyInfo\ array\ associated\ with\ the\ given\ level.\r\n
+numComments=1

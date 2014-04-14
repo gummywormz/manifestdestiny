@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i\ time
+comment0.target=Notifier(greenfoot.GreenfootImage,\ int)
+comment0.text=\r\n\ Constructs\ a\ Notifier\ with\ the\ specified\ image\ and\ time\ limit\r\n\ @param\ i\ Greenfoot\ Image\ to\ be\ displayed\r\n\ @param\ time\ The\ number\ of\ act\ cycles\ the\ image\ is\ to\ be\ displayed\ for.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Notifier\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Oxen\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=speed
+comment1.target=void\ setSpeed(int)
+comment1.text=\r\n\ Sets\ the\ horse's\ speed\r\n\ @param\ speed\ The\ speed\ to\ set\r\n
+comment2.params=chance
+comment2.target=void\ setFireChance(int)
+comment2.text=\r\n\ Sets\ the\ horse's\ firing\ chances\r\n\ @param\ chance\ the\ firing\ chance\ to\ set\r\n
+comment3.params=
+comment3.target=int\ getFireChance()
+comment3.text=\r\n\ Returns\ the\ fire\ chance\r\n\ @return\ The\ fire\ chance\r\n
+comment4.params=h
+comment4.target=void\ addHealth(int)
+comment4.text=\r\n\ Adds\ health\ to\ this\ horse\r\n\ @param\ h\ The\ amount\ of\ health\ to\ add\r\n
+comment5.params=frames
+comment5.target=void\ setIframes(int)
+comment5.text=\r\n\ Sets\ this\ horse's\ invincibility\ frames\r\n\ @param\ frames\ The\ amount\ of\ frames\ to\ set\ in\ Act\ Cycles\r\n
+comment6.params=
+comment6.target=int\ getHealth()
+comment6.text=\r\n\ Returns\ this\ horse's\ health\r\n\ @return\ This\ horse's\ health\r\n
+numComments=7
